@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroMonitorAssessment", "EuroMonitorAssessment\EuroMonitorAssessment.csproj", "{FA0AD935-AB27-4B05-9C91-956F63D63F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroMonitorAssessment.Tests", "EuroMonitorAssessment.Tests\EuroMonitorAssessment.Tests.csproj", "{0227CA09-D8CA-416E-8B5A-A2CB2CA0BC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0AD935-AB27-4B05-9C91-956F63D63F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0AD935-AB27-4B05-9C91-956F63D63F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0AD935-AB27-4B05-9C91-956F63D63F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0AD935-AB27-4B05-9C91-956F63D63F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0227CA09-D8CA-416E-8B5A-A2CB2CA0BC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0227CA09-D8CA-416E-8B5A-A2CB2CA0BC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0227CA09-D8CA-416E-8B5A-A2CB2CA0BC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0227CA09-D8CA-416E-8B5A-A2CB2CA0BC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D7E7B56-0BE0-4D0C-B581-EE66EB68800D}
+	EndGlobalSection
+EndGlobal
